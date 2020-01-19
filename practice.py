@@ -2,6 +2,7 @@ import bs4
 import requests
 from bs4 import BeautifulSoup as soup
 import urllib
+#test
 
 #we're gonna parse newegg for graphics cards
 url = 'https://www.newegg.com/Video-Cards-Video-Devices/Category/ID-38?Tpk=graphics%20cards'
